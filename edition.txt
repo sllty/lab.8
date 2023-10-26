@@ -1,0 +1,5 @@
+$ cat edition.txt
+firse edition
+second edition
+third edition
+issue resolved
